@@ -3,3 +3,6 @@ Google Gemini > Google Gemini code assist
 Chatgpt
 copilot
 Claude
+<img width="1798" height="1040" alt="image" src="https://github.com/user-attachments/assets/4fd0df71-5b58-4daa-aa3b-9f5deecd78e4" />
+<img width="1544" height="814" alt="image" src="https://github.com/user-attachments/assets/74b7eb32-8caa-46f4-9462-dac22dfd4e2c" />
+
